@@ -2,7 +2,7 @@
 This is a simple dynamics app that allows user to change the background-color of the app by
 clicking on listed button colors present. 
 
-Runs the app in the development mode [Box-color](https://box-colors.herokuapp.com/).
+Runs the app in the production mode [Box-color](https://box-colors.herokuapp.com/).
 
 ## Available Scripts
 
