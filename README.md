@@ -2,7 +2,7 @@
 This is a simple dynamics app that allows user to change the background-color of the app by
 clicking on listed button colors present. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Runs the app in the development mode [Box-color](https://box-colors.herokuapp.com/).
 
 ## Available Scripts
 
