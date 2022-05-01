@@ -2,7 +2,7 @@ import './App.css';
 import Button from './Button';
 
 const ButtonPanel = ({clickHandle}) => {
-  const panel = ({ name, color }) => < Button handle={clickHandle} name={name} color={color} />
+  const panel = ({ name, color = 'button' }) => < Button handle={clickHandle} name={name} color={color} />
   return (
     <div className='button-panel'>
       {panel({name: 'Red', color: 'red'})}
