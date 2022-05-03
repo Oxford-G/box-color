@@ -2,7 +2,7 @@
 This is a simple dynamics app that allows user to change the background-color of the app by
 clicking on listed button colors present. 
 
-Runs the app in the production mode [Box-color](https://box-colors.herokuapp.com/).
+Live Link [Box-color](https://box-colors.herokuapp.com/).
 
 ## Available Scripts
 
@@ -63,7 +63,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
